@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+body{
+  margin-top: 20px;
+  background: rgb(115, 223, 250);
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
