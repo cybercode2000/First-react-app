@@ -1,5 +1,6 @@
 import React from "react";
 import "./Start.css";
+import Radium from 'radium'
 
 const Starter = props => {
   return (
@@ -20,4 +21,4 @@ const Starter = props => {
   );
 };
 
-export default Starter;
+export default Radium(Starter);

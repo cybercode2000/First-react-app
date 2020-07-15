@@ -7,6 +7,14 @@ body{
   background: rgb(115, 223, 250);
 }
 
+.bold {
+  font-weight: bold;
+}
+
+.red{
+  color: red;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
